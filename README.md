@@ -8,11 +8,11 @@
 <p align="left">
  
  [![My Skills](https://skillicons.dev/icons?i=js&perline=1)](https://skillicons.dev)
-  [![My Skills](https://skillicons.dev/icons?i=ts&perline=1)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=ts&perline=1)](https://skillicons.dev)
  [![My Skills](https://skillicons.dev/icons?i=react&perline=1)](https://skillicons.dev)
  [![My Skills](https://skillicons.dev/icons?i=nextjs&perline=1)](https://skillicons.dev)
  [![My Skills](https://skillicons.dev/icons?i=nodejs&perline=1)](https://skillicons.dev) 
-  [![My Skills](https://skillicons.dev/icons?i=tailwind&perline=1)](https://skillicons.dev) 
+ [![My Skills](https://skillicons.dev/icons?i=tailwind&perline=1)](https://skillicons.dev) 
  [![My Skills](https://skillicons.dev/icons?i=postgres&perline=1)](https://skillicons.dev)
  [![My Skills](https://skillicons.dev/icons?i=arduino&perline=1)](https://skillicons.dev)
  [![My Skills](https://skillicons.dev/icons?i=prisma&perline=1)](https://skillicons.dev)  
@@ -23,9 +23,9 @@
  [![My Skills](https://skillicons.dev/icons?i=py&perline=1)](https://skillicons.dev) 
  [![My Skills](https://skillicons.dev/icons?i=aws&perline=1)](https://skillicons.dev)
  [![My Skills](https://skillicons.dev/icons?i=bash&perline=1)](https://skillicons.dev) 
-  [![My Skills](https://skillicons.dev/icons?i=vercel&perline=1)](https://skillicons.dev)
-  [![My Skills](https://skillicons.dev/icons?i=postman&perline=1)](https://skillicons.dev)
-  [![My Skills](https://skillicons.dev/icons?i=jenkins&perline=1)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=vercel&perline=1)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=postman&perline=1)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=jenkins&perline=1)](https://skillicons.dev)
  
  
 <br>
