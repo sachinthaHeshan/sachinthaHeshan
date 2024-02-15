@@ -10,7 +10,7 @@
  [![My Skills](https://skillicons.dev/icons?i=js&perline=1)](https://skillicons.dev)
  [![My Skills](https://skillicons.dev/icons?i=jenkins&perline=1)](https://skillicons.dev)
  [![My Skills](https://skillicons.dev/icons?i=nextjs&perline=1)](https://skillicons.dev)
- [![My Skills](https://skillicons.dev/icons?i=nodej&perline=1)](https://skillicons.dev) 
+ [![My Skills](https://skillicons.dev/icons?i=nodejs&perline=1)](https://skillicons.dev) 
  [![My Skills](https://skillicons.dev/icons?i=postgres&perline=1)](https://skillicons.dev)
  [![My Skills](https://skillicons.dev/icons?i=postman&perline=1)](https://skillicons.dev)
  [![My Skills](https://skillicons.dev/icons?i=prisma&perline=1)](https://skillicons.dev)
