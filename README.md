@@ -24,8 +24,7 @@
  [![My Skills](https://skillicons.dev/icons?i=aws&perline=1)](https://skillicons.dev)
  [![My Skills](https://skillicons.dev/icons?i=bash&perline=1)](https://skillicons.dev) 
  [![My Skills](https://skillicons.dev/icons?i=vercel&perline=1)](https://skillicons.dev)
- [![My Skills](https://skillicons.dev/icons?i=postman&perline=1)](https://skillicons.dev)
- [![My Skills](https://skillicons.dev/icons?i=jenkins&perline=1)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=postman&perline=1)](https://skillicons.dev) 
  
  
 <br>
