@@ -20,7 +20,6 @@
  [![My Skills](https://skillicons.dev/icons?i=redis&perline=1)](https://skillicons.dev)
  [![My Skills](https://skillicons.dev/icons?i=sass&perline=1)](https://skillicons.dev)
  [![My Skills](https://skillicons.dev/icons?i=styledcomponents&perline=1)](https://skillicons.dev)
- [![My Skills](https://skillicons.dev/icons?i=py&perline=1)](https://skillicons.dev)
  [![My Skills](https://skillicons.dev/icons?i=aws&perline=1)](https://skillicons.dev)
  [![My Skills](https://skillicons.dev/icons?i=bash&perline=1)](https://skillicons.dev) 
  [![My Skills](https://skillicons.dev/icons?i=vercel&perline=1)](https://skillicons.dev)
